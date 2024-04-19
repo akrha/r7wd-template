@@ -1,24 +1,13 @@
-# README
+# r7wd
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## About
 
-Things you may want to cover:
+Rails 7 with Docker project template.
 
-* Ruby version
+## Usage
 
-* System dependencies
+Simple.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Clone this repository
+- `docker-compose up --build`
+- `docker-compose up -d`
